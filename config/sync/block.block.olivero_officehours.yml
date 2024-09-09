@@ -1,0 +1,25 @@
+uuid: 112cc4a1-e6f1-45e2-aa44-fb7524b53fed
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:a811aab8-9b23-4a12-b7e4-9e39a6259371'
+  module:
+    - block_content
+  theme:
+    - olivero
+id: olivero_officehours
+theme: olivero
+region: sidebar
+weight: 0
+provider: null
+plugin: 'block_content:a811aab8-9b23-4a12-b7e4-9e39a6259371'
+settings:
+  id: 'block_content:a811aab8-9b23-4a12-b7e4-9e39a6259371'
+  label: 'Office Hours'
+  label_display: '0'
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }
