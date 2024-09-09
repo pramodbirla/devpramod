@@ -1,0 +1,14 @@
+blocks:
+  -
+    info: 'Office Hours'
+    langcode: en
+    uuid: a811aab8-9b23-4a12-b7e4-9e39a6259371
+    bundle: basic
+    revision_id: null
+    rev_id_current: null
+    fields:
+      body:
+        -
+          value: '<h2>Office Hours</h2><ul><li><strong>Monday:</strong> 9:00 AM - 5:00 PM</li><li><strong>Tuesday:</strong> 9:00 AM - 5:00 PM</li><li><strong>Wednesday:</strong> 9:00 AM - 5:00 PM</li><li><strong>Thursday:</strong> 9:00 AM - 5:00 PM</li><li><strong>Friday:</strong> 9:00 AM - 5:00 PM</li><li><strong>Saturday:</strong> 10:00 AM - 2:00 PM</li><li><strong>Sunday:</strong> Closed</li></ul><p>Please contact us for special appointments.</p>'
+          summary: ''
+          format: basic_html
